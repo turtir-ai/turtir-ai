@@ -1,11 +1,13 @@
-# 🎯 Turtir-AI: Intelligent Upwork Project Assistant
+# 🎯 Turtir-AI Upwork Project Assistant
+## *Intelligent AI-Powered Freelance Project Discovery*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![AI Powered](https://img.shields.io/badge/AI-Gemini%20Powered-green.svg)](https://ai.google.dev/)
+[![GitHub Stars](https://img.shields.io/github/stars/turtir-ai/turtir-ai?style=social)](https://github.com/turtir-ai/turtir-ai/stargazers)
 
-> 🤖 **AI-Powered Freelance Project Discovery** - Automatically scrape, analyze, and rank Upwork projects using advanced AI technology to find the perfect matches for your skills.
+> 🤖 **Transform your freelancing with AI** - Automatically scrape, analyze, and rank Upwork projects using advanced Gemini AI technology to discover perfect matches for your skills and maximize your success rate.
 
 ## 🌟 Features
 
@@ -43,7 +45,7 @@
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Clone the Turtir-AI repository:**
 ```bash
 git clone https://github.com/turtir-ai/turtir-ai.git
 cd turtir-ai
@@ -219,29 +221,45 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Selenium** for reliable web automation
 - **Upwork** for providing the platform that inspired this tool
 
-## 📞 Support
+## 📞 Support & Community
 
-- **Issues**: [GitHub Issues](https://github.com/turtir-ai/turtir-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/turtir-ai/turtir-ai/discussions)
-- **Email**: turtirhey@gmail.com
+### Get Help with Turtir-AI
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/turtir-ai/turtir-ai/issues)
+- 💬 **Questions & Ideas**: [GitHub Discussions](https://github.com/turtir-ai/turtir-ai/discussions)
+- 📧 **Direct Contact**: turtirhey@gmail.com
+- 📚 **Documentation**: [Project Wiki](https://github.com/turtir-ai/turtir-ai/wiki)
 
-## 🎨 Screenshots
+### Project Resources
+- 🌟 **Feature Requests**: [Request New Features](https://github.com/turtir-ai/turtir-ai/issues/new?labels=enhancement)
+- 🔄 **Updates**: [Release Notes](https://github.com/turtir-ai/turtir-ai/releases)
+- 🤝 **Contributing**: [Contribution Guide](CONTRIBUTING.md)
 
-### Main Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+## 🎨 Turtir-AI Screenshots
 
-### AI Analysis Results
-![Analysis](docs/screenshots/analysis.png)
+### 🖥️ Main Dashboard
+![Turtir-AI Dashboard](docs/screenshots/dashboard.png)
+*Beautiful Streamlit interface with real-time project discovery*
 
-### Project Management
-![Management](docs/screenshots/management.png)
+### 🧠 AI Analysis Results
+![Turtir-AI Analysis](docs/screenshots/analysis.png)
+*Intelligent project scoring and technology detection*
+
+### 📊 Project Management
+![Turtir-AI Management](docs/screenshots/management.png)
+*Comprehensive project tracking and analytics*
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Turtir-AI](https://github.com/turtir-ai)**
+**🎯 Turtir-AI Upwork Project Assistant**
+
+*AI-Powered Freelance Project Discovery Tool*
+
+**Made with ❤️ using Python, Streamlit & Gemini AI**
 
 ⭐ **Star this repository if you found it helpful!** ⭐
+
+[🚀 Get Started](https://github.com/turtir-ai/turtir-ai#quick-start) • [📖 Documentation](https://github.com/turtir-ai/turtir-ai#usage-guide) • [🐛 Report Issues](https://github.com/turtir-ai/turtir-ai/issues)
 
 </div>
