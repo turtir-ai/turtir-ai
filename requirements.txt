@@ -1,0 +1,5 @@
+streamlit
+selenium
+google-generativeai
+python-dotenv
+pandas
